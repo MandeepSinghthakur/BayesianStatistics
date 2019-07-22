@@ -1,4 +1,4 @@
-For Downloading the data go ahead to Kaggle Website as per below url:
+For Downloading the data go ahead to Kaggle Website as per url:
 https://www.kaggle.com/thegurus/spanish-high-speed-rail-system-ticket-pricing?source=post_page
 
 
